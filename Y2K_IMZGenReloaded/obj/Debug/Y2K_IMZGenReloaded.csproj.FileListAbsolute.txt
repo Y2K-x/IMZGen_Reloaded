@@ -1,0 +1,11 @@
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\bin\Debug\Y2K_IMZGenReloaded.exe.config
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\bin\Debug\Y2K_IMZGenReloaded.exe
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\bin\Debug\Y2K_IMZGenReloaded.pdb
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\obj\Debug\Y2K_IMZGenReloaded.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\obj\Debug\Y2K_IMZGenReloaded.debugConsole.resources
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\obj\Debug\Y2K_IMZGenReloaded.Form1.resources
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\obj\Debug\Y2K_IMZGenReloaded.Properties.Resources.resources
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\obj\Debug\Y2K_IMZGenReloaded.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\obj\Debug\Y2K_IMZGenReloaded.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\obj\Debug\Y2K_IMZGenReloaded.exe
+D:\Visual Studio\Projects\Y2K_IMZGenReloaded\Y2K_IMZGenReloaded\obj\Debug\Y2K_IMZGenReloaded.pdb
